@@ -1,0 +1,61 @@
+.navbar-brand{
+    font-size: 40px;
+    color: rgb(8, 8, 8);
+    font-weight: bolder;
+    margin-left: 45px;
+    font-family: 'Chonburi', cursive;
+    
+}
+.navbar{border-color: black;}
+.head{
+    color: green;
+}
+#nav-item:hover{
+    color: green;
+}
+.nav-link:hover{
+    color: green;
+    
+}
+#title{
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+}
+#title1{
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Chonburi', cursive;
+}
+
+#pic{
+    filter: brightness(0.8);
+}
+#symbol{
+    margin-top: 6px;
+}
+.text-uppercase{
+    color: #7AB730;
+    font-weight: bolder;
+}
+.destination{
+    font-weight: bold;
+    font-family: 'Chonburi', cursive;
+}
+#sendMessageButton{
+    background-color: #7AB730;
+    color: white;
+    font-weight: bolder;
+}
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,54 @@
+.navbar-brand{
+    font-size: 40px;
+    color: rgb(8, 8, 8);
+    font-weight: bolder;
+    margin-left: 45px;
+    font-family: 'Chonburi', cursive;
+    
+}
+.navbar{border-color: black;}
+.head{
+    color: green;
+}
+#nav-item:hover{
+    color: green;
+    
+}
+.nav-link:hover{
+    color: green;
+    
+    
+}
+#title{
+    font-weight: bold;
+    font-size: 25px;
+    color: white;
+}
+#title1{
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Chonburi', cursive;
+}
+
+#pic{
+    filter: brightness(0.8);
+    max-height: 200px;
+}
+#symbol{
+    margin-top: 6px;
+}
+
+#submit{
+    align-items: center;
+}
+
+button{
+    background-color:#7AB730 ;
+    border: solid 1px #7AB730 ;
+}
+
+#proceed{
+    color: white;
+}
+
+

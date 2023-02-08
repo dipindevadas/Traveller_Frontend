@@ -1,1 +1,22 @@
-/* You can add global styles to this file, and also import other style files */
+/* @import url('https://fonts.googleapis.com/css2?family=EB+Garamond&family=Vollkorn:ital@1&display=swap'); */
+
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font-family: 'EB Garamond', serif;
+    font-size: 18px ;
+}
+
+a{
+    text-decoration: none;
+}
+
+body{
+    background-color: #F3F3F3;;
+}
+ .Feature_head{
+    font-weight: bolder;
+
+} 

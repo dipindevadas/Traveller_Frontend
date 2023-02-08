@@ -1,0 +1,159 @@
+html{
+    scroll-behavior: smooth;
+}
+.navbar-brand{
+    font-size: 40px;
+    color: rgb(8, 8, 8);
+    font-weight: bolder;
+    margin-left: 45px;
+    font-family: 'Chonburi', cursive;
+    
+}
+.navbar{border-color: black;}
+.head{
+    color: green;
+}
+#nav-item:hover{
+    color: green;
+    
+}
+.nav-link:hover{
+    color: green;
+    
+    
+}
+#title{
+    font-weight: bolder;
+    font-size: 35px;
+}
+#title1{
+    font-weight: bold;
+    font-size: 60px;
+    font-family: 'Chonburi', cursive;
+}
+
+.carousel-item{
+    max-height: 18.5cm;
+}
+#select{
+    margin-top: 0.4cm;
+}
+ .btn{
+    background-color: #7AB730;
+    border-color: #7AB730; 
+ } 
+#submit{
+    background-color: #7AB730;
+    color: white;
+    font-weight: bolder;
+}
+
+#icon{
+    background-color: #7AB730;
+    border-color: #7AB730;
+}
+.text-uppercase{
+    color: #7AB730;
+    font-weight: bolder;
+}
+.destination{
+    font-weight: bold;
+    font-family: 'Chonburi', cursive;
+}
+.text-dark{
+    font-weight: bolder;
+}
+
+#services:hover{
+
+
+        box-shadow: 5px 5px 5px 5px 5px  #888888;
+        transition: all 0.2s linear;
+            transform: scale(1.04);
+   
+}
+#services{
+    transition: all 0.2s linear;
+    transform: scale(1);
+}
+text-primary{
+    color: #7AB730;
+}
+
+#btn_login{
+    color: white;
+    font-weight: bold;
+}
+#btn_login:hover{
+    box-shadow: 5px 5px 5px 5px 5px  #888888;
+}
+
+#scroll{
+    
+    margin-left: 95%;
+    position: sticky;
+    margin-top: -5cm;
+    scroll-behavior: smooth;
+}
+
+
+
+
+
+
+
+.button {
+    display: inline-block;
+    padding: 0.75rem 1.25rem;
+    border-radius: 10rem;
+    color: #fff;
+    font-weight: bolder;
+    text-transform: uppercase;
+    font-size: 1rem;
+    letter-spacing: 0.15rem;
+    transition: all 0.3s;
+    position: relative;
+    overflow: hidden;
+    z-index: 1;
+}
+.button:after {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-color:#7ab730;
+    border-radius: 10rem;
+    z-index: -2;
+}
+.button:before {
+    content: '';
+    position: absolute;
+    bottom: 0;
+    left: 0;
+    width: 0%;
+    height: 100%;
+    background-color: #6ca525;
+    transition: all 0.3s;
+    border-radius: 10rem;
+    z-index: -1;
+}
+.button:hover {
+    color: #fff;
+}
+.button:hover:before {
+    width: 100%;
+}
+
+#view_all{
+    margin-left: 90%;
+    font-weight: bold;
+}
+
+/* a{
+    color: white;
+} */
+#view{
+    color: white;
+}
